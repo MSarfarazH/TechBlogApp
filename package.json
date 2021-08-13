@@ -1,5 +1,5 @@
 {
-  "name": "TechBlogApp",
+  "name": "techblogapp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MSarfarazH/TechBlogApp/issues"
   },
-  "homepage": "https://github.com/MSarfarazH/TechBlogApp#readme"
+  "homepage": "https://github.com/MSarfarazH/TechBlogApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
