@@ -22,10 +22,6 @@ User.init(
       allowNull: false,
     },
 
-    github: {
-      type: DataTypes.STRING,
-      allowNull: true,
-    },
 
     email: {
       type: DataTypes.STRING,
